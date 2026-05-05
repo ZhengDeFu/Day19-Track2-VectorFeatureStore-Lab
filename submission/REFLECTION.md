@@ -24,5 +24,5 @@ _(Optional, 1–2 câu)_
 
 ## Bonus challenge
 
-- [ ] Đã làm bonus (xem `bonus/`)
+- [x] Đã làm bonus (xem `bonus/`)
 - [ ] Pair work với: _<tên đồng đội nếu có>_
